@@ -1,0 +1,14 @@
+.text-center {
+  text-align: center;
+}
+.block {
+  display: block;
+}
+.m {
+  margin: 8px;
+}
+.main-container {
+  max-width: 786px;
+  margin: auto;
+  margin-top: 4rem;
+}
